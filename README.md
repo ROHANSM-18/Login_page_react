@@ -1,4 +1,4 @@
-## React Project (AIMED LABS)
+## React Project 
 
 ### Authored By Rohan Mahajan
 
